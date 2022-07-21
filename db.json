@@ -21,6 +21,11 @@
       "id": 2,
       "name": "AIIMS",
       "address": "Kolkata"
+    },
+    {
+      "id":3,
+      "name":"RIIMS",
+      "address":"Ranchi"
     }
   ]
 }
